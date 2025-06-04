@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.spore.vxmoviesapp.pilot",
+      "sha256_cert_fingerprints": [
+        "FA:B4:0A:A4:CA:37:B0:2D:0C:1B:C4:A7:37:47:DE:87:14:CB:C1:A8:B8:9D:72:A1:BC:79:67:29:98:24:76:75"
+      ]
+    }
+  }
+]

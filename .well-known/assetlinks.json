@@ -8,5 +8,15 @@
         "FA:B4:0A:A4:CA:37:B0:2D:0C:1B:C4:A7:37:47:DE:87:14:CB:C1:A8:B8:9D:72:A1:BC:79:67:29:98:24:76:75"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vxapp.demopasskeyproject",
+      "sha256_cert_fingerprints": [
+        "92:4B:D7:9D:6E:D3:88:0C:5A:96:10:5C:32:32:D5:E1:E9:C0:5C:11:BB:7D:A5:F8:B2:D2:83:96:1C:32:CB:06"
+      ]
+    }
   }
 ]
